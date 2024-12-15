@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434901437884",
+    "project_id": "stock-tracking-app-d6512",
+    "storage_bucket": "stock-tracking-app-d6512.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434901437884:android:887b8ad03a213d8dd82fb9",
+        "android_client_info": {
+          "package_name": "com.example.stock_tracking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC08NpDim_7wJhw1ZuWVysKXOqxXfDkOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
