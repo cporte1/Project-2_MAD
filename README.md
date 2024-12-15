@@ -2,6 +2,8 @@
 
 Stock tracking with watchlists
 
+youtube link: https://youtu.be/gik4vUTHhMk
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
